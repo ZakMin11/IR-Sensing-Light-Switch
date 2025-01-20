@@ -1,6 +1,6 @@
 # Remote Control Light Switch
 
-An embedded systems project that allows you to control a light switch remotely using any standard IR remote control. The system uses an Arduino Nano with an ATMega328p microprocessor to control a servo motor that physically toggles a light switch.
+An embedded systems project that allows you to control a light switch remotely using your iPhone by utilizing Apple's IR pulsing facial recognition feature or any standard IR remote control. The system uses an Arduino Nano with an ATMega328p microprocessor to control a servo motor that physically toggles a light switch.
 
 ## Overview
 
